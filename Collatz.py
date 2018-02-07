@@ -1,7 +1,7 @@
 # Martin Rafter 5-2-18
 # The collatz conjecture program
 
-n = int(input("Enter integer:"))
+n = int(input("Integer:"))
 
 while n!= 1 : #  if answer is not equal to 1 keep running the loop 
 
