@@ -7,4 +7,4 @@ while n!= 1 : #  if answer is not equal to 1 keep running the loop
         print (n) 
     else: # if the number is not even you multiple by 3 and add 1
         n = (n * 3) + 1
-        print (round (n)) # The answer will always reach 1 no matter the number it starts at 
+        int (round (n)) # The answer will always reach 1 no matter the number it starts at 
