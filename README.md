@@ -9,4 +9,4 @@ Programming and Scripting module exercises
 
 * Excercise 4 in file Problem 5 PE
 
-* Exercise 5 - Open file and format output file "openfile.py"  and  Iris Dataset "openfile2.py
+* Exercise 5  in openfile.py and Iris Dataset openfile2.py
