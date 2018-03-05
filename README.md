@@ -8,3 +8,5 @@ Programming and Scripting module exercises
 * Exercise 3 in file collatz.py
 
 * Excercise 4 in file Problem 5 PE
+
+* Exercise 5 - Open file and format output file "openfile.py"  and  "openfileV2.py
